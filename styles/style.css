@@ -4,7 +4,19 @@ p {
     color: rgb(26, 48, 150);
 }
 
+p.usagi{
+    color: rgb(255, 238, 0)
+}
+    
+
 a {
     color: rgb(56, 157, 245)
-    font-family: sans-serif
+    font-style: sans-serif
+}
+
+h1,
+h2,
+h3 {
+    font-style: italic
+
 }
